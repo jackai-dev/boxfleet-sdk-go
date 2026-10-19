@@ -1,0 +1,81 @@
+{
+  "$schema": "https://omniwrap.dev/schemas/go-package/v1.json",
+  "client_constructor": "NewClient",
+  "go_version": "1.24",
+  "module_path": "github.com/omniwrap/boxfleet-sdk",
+  "package_name": "boxfleet",
+  "package_version": "0.3.0",
+  "source_files": [
+    {
+      "path": "client.go",
+      "sha256": "43a1e3baf2cc047d69febb0c26207882867dba798389377e686832cffd09b05d",
+      "size_bytes": 2385
+    },
+    {
+      "path": "format/format.go",
+      "sha256": "1bd49452a20d3ec05d2a95e27bc37d6a988eba7a154580265091a6605fe1bb94",
+      "size_bytes": 10721
+    },
+    {
+      "path": "go.mod",
+      "sha256": "9033b28dd7cbac3099ab8a235a68bd558d92fa71b37e12fbf10b5e5369d6f035",
+      "size_bytes": 49
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "fb11dfcf40507855f2fbe0fdcee036cfe549b3ef7e52ebeb09e0dd66d552a128",
+      "size_bytes": 282
+    },
+    {
+      "path": "models.go",
+      "sha256": "3bf70111b8f526853584c066726b4c912841204fe7d7c27be1fadc63fa20c65b",
+      "size_bytes": 168434
+    },
+    {
+      "path": "option/option.go",
+      "sha256": "dafc492386a2c8167198970a808be2c02e8ee27ba0aa2dffb8ecf23d5a6b8122",
+      "size_bytes": 13843
+    },
+    {
+      "path": "paging.go",
+      "sha256": "adbfaf936d8e19867500b2cce59dcb6e90366ad5a843f57b540b316887807a59",
+      "size_bytes": 7842
+    },
+    {
+      "path": "param/param.go",
+      "sha256": "90c4600ee9b10343c2b0cbb7f5d85aafa15d1148d7dbbbb89f5475f1baff7c80",
+      "size_bytes": 1341
+    },
+    {
+      "path": "README.md",
+      "sha256": "3573b91d314b7fdcbe1247a155ca6b214fc83a3292ad153e12c7fa0ddcd6d090",
+      "size_bytes": 13770
+    },
+    {
+      "path": "resources.go",
+      "sha256": "9a9579aa6aff55d3fc6e542a86ee6a0e131eb220bebb5817b3f33d41bda62899",
+      "size_bytes": 45069
+    },
+    {
+      "path": "runtime.go",
+      "sha256": "f6e83f935f99f8f7f6f76d1a20c0f44f0c17a2bd4fbc5fb646c30db3058d7d36",
+      "size_bytes": 33148
+    },
+    {
+      "path": "runtime_test.go",
+      "sha256": "aa6abd1ebae13fabe8d713f625d251900e14850705c4f6580d155ea19a5a9871",
+      "size_bytes": 45924
+    },
+    {
+      "path": "schema.go",
+      "sha256": "048949267a8e7dea6bab500c3eb56cbf021c42a1b209e6bd3fd817a7f71f01fb",
+      "size_bytes": 21454
+    },
+    {
+      "path": "wire.go",
+      "sha256": "86043bb0d7a727a8c6a9c2711afb9c7d7b7f214c485e5c74eb77d37567f2d105",
+      "size_bytes": 10616
+    }
+  ],
+  "source_version": "0.3.0"
+}
